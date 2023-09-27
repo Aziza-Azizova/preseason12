@@ -7,3 +7,5 @@ for(let i=0; i<=10; i++){
 function greeting(){
     alert("wqertyuio")
 }
+
+document.body.innerHTML = "<h2>Second programmer Notes</h2>"
